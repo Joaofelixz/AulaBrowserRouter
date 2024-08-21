@@ -208,7 +208,7 @@ export default function Home(){
             <img src="https://imgnike-a.akamaihd.net/branding/home-sbf/touts/Banner-Join-Us-refresh-22-05-desktop.jpg"/>
         </div>
          </Carousel>
-         <div>
+         <div>oi
       <ListarProdutos lista={ProdutosHome}/>
     </div>
         </>
