@@ -3,6 +3,7 @@ import { useState } from 'react';
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 import "../globals.css";
+import ListarProdutos from '../components/Listarprodutos'
 
 
 export default function Home(){
@@ -207,6 +208,9 @@ export default function Home(){
             <img src="https://imgnike-a.akamaihd.net/branding/home-sbf/touts/Banner-Join-Us-refresh-22-05-desktop.jpg"/>
         </div>
          </Carousel>
+         <div>
+      <ListarProdutos lista={ProdutosHome}/>
+    </div>
         </>
     );
 }
