@@ -7,11 +7,11 @@ export default function ListarProdutos({ lista }){
             lista.map((produto)=>
             <div key={produto.id}>
             <h2>{produto.nome}</h2>
-            <img src={produto.imagem}/>
-            <p>{produto.marca}</p>
-            <p>{produto.descricao}</p>
-            <p>{produto.preco}</p>
-            <p>{produto.tamanhos}</p>
+            <img class="produtoimg" src={produto.imagem}/>
+            <p class="produto">{produto.marca}</p>
+            <p class="produto">{produto.descricao}</p>
+            <p class="produto">{produto.preco}</p>
+            <p class="produto">{produto.tamanhos}</p>
             </div>
             )
         }

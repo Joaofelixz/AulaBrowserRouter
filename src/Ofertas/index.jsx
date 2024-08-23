@@ -278,7 +278,7 @@ export default function Home(){
 ]);
 return(
     <div>
-      <ListarProdutos lista={Produtos}/>
+      <ListarProdutos lista={ProdutosOfertas}/>
     </div>
 )
 }
