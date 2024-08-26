@@ -1,29 +1,19 @@
 import {Link} from "react-router-dom";
 
-export default function Header(){
-        return(
-            oi
-            <header>
-                <div>
-                <h1>Spilled Blood Bookstore</h1>
-                </div>
-                  <nav>
-                
-                    <Link to="/">
-                        <h2 class='header-link'>Prodtuos</h2>
-                    </Link>
-
-                    <Link to="/oferta">
-                        <h2 class='header-link'>Ofertas</h2>
-                    </Link>
-
-                    <Link to="/produtos">
-                        <h2 class='header-link'>Produtos</h2>
-                    </Link>
-                
-            </nav>
-                </header>
-              
-            
-        )
-    }
+export default function Header() {
+    return (
+      <header>
+        <nav>
+          <Link to="/">
+            <h2 className="header-link">Home</h2>
+          </Link>
+          <Link to="/ofertas">
+            <h2 className="header-link">Ofertas</h2>
+          </Link>
+          <Link to="/produtos">
+            <h2 className="header-link">Produtos</h2>
+          </Link>
+        </nav>
+      </header>
+    );
+  }

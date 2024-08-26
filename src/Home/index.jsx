@@ -1,7 +1,8 @@
 
 import { useState } from 'react';
 import { Carousel } from 'react-responsive-carousel';
-import Header from "../components/Header";
+import Header from '../components/Header';
+import Footer from '../components/Footer';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 import "../globals.css";
 import ListarProdutos from '../components/Listarprodutos'
@@ -195,7 +196,7 @@ export default function Home(){
 
     return(
         <>
-        <header/>
+        <Header/>
             <Carousel class="carousel"
                 infiniteloop usekeyboardArrows autoPlay 
                 showArrows={true}
@@ -216,6 +217,7 @@ export default function Home(){
          <div>
       <ListarProdutos lista={ProdutosHome}/>
     </div>
+    <Footer/>
         </>
     );
 }

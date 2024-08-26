@@ -12,6 +12,7 @@ export default function ListarProdutos({ lista }){
             <p class="produto">{produto.descricao}</p>
             <p class="produto">{produto.preco}</p>
             <p class="produto">{produto.tamanhos}</p>
+            <button>Comprar</button>
             </div>
             )
         }
