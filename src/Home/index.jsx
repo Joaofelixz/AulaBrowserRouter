@@ -24,7 +24,7 @@ export default function Home(){
 
         descricao:"Tenis de Basqute",
 
-        preco:"1988,00",
+        preco:"1988,00" ,
 
         tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
 

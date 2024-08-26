@@ -1,8 +1,9 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
+import React from 'react';
+import ReactDOM from 'react-dom/client';
 import { BrowserRouter, Routes,Route } from 'react-router-dom';
-import Home from './Home'
-import Produtos from './Produtos'
+import Home from './Home';
+import Produtos from './Produtos';
+import Ofertas from './Ofertas';
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
@@ -10,7 +11,8 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <BrowserRouter>
      <Routes>
           <Route path='/' element={ <Home/> }/>
-          <Route path='/produtos' element={ <Produtos/> }/>
+          <Route path='/Produtos' element={ <Produtos/> }/>
+          <Route path='Ofertas' element={<Ofertas/>}/>
      </Routes>
     </BrowserRouter>
   </React.StrictMode>,
