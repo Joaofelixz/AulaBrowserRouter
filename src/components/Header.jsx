@@ -5,13 +5,13 @@ export default function Header() {
       <header>
         <nav>
           <Link to="/">
-            <h2 className="header-link">Home</h2>
+            <h2 class="header-link">Home</h2>
           </Link>
           <Link to="/ofertas">
-            <h2 className="header-link">Ofertas</h2>
+            <h2 class="header-link">Ofertas</h2>
           </Link>
           <Link to="/produtos">
-            <h2 className="header-link">Produtos</h2>
+            <h2 class="header-link">Produtos</h2>
           </Link>
         </nav>
       </header>

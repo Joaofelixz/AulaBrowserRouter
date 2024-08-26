@@ -1,7 +1,7 @@
 export default function Footer(){
     return(
       <header>
-        <h1>Loja da Nike</h1>
+        <h1 class="Footer">Loja da Nike</h1>
       </header>
     )
 }

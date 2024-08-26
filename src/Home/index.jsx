@@ -174,7 +174,7 @@ export default function Home(){
 
     },
     {
-        id:9,
+        id:10,
 
         nome:"Tênis Nike KD17 Sunrise Masculino",
 
