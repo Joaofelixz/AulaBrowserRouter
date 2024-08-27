@@ -3,7 +3,7 @@ body {
     margin: 0;
 }
 .carousel{
-    width: 600px;
+    width: 600px; /*Largura*/
     height: 600px;
     margin: 0 auto;
 }
@@ -33,11 +33,11 @@ header{
 }
 .Card-produtos{
     height: 50%;  /*Altura*/
-    display: flex; /**/
-    flex-direction:row; /**/
-    flex-wrap: wrap; /**/ 
-    gap: 5%; /**/
-    margin: 5%; /**/
+    display: flex; 
+    flex-direction:row; 
+    flex-wrap: wrap; 
+    gap: 5%; 
+    margin: 5%; 
     align-items: center; 
     justify-content: center; 
 }
