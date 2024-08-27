@@ -2,7 +2,8 @@ import "../globals.css"
 
 export default function ListarProdutos({ lista }){
     return(
-        <div>
+
+        <div class='Card-produtos'>
               {
             lista.map((produto)=>
             <div class="Card" key={produto.id}>
@@ -12,11 +13,11 @@ export default function ListarProdutos({ lista }){
             <p class="Card">{produto.descricao}</p>
             <p class="Card">{produto.preco}</p>
             <p class="Card">{produto.tamanhos}</p>
-            <button>Comprar</button>
+            <button class="button">Comprar</button>
             </div>
             )
         }
-        </div>
+    </div>
     )
 }
 

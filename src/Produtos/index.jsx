@@ -15,11 +15,11 @@ export default function Produtos(){
     
             marca:"Nike",
     
-            descricao:"Tenis de Basqute",
+            descricao:"Tênis de Treino & Academia",
     
-            preco:"1988,00",
+            preco:"R$:300,00",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -33,11 +33,11 @@ export default function Produtos(){
     
             marca:"Nike",
     
-            descricao:"Tenis de Basqute",
+            descricao:"Tênis de Treino & Academia",
     
-            preco:"1988,00",
+            preco:"R$:550,00",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -51,11 +51,11 @@ export default function Produtos(){
     
             marca:"Nike",
     
-            descricao:"Tenis de Basqute",
+            descricao:"Tênis de Treino & Academia",
     
-            preco:"1988,00",
+            preco:"R$:289,90",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -69,11 +69,11 @@ export default function Produtos(){
     
             marca:"Nike",
     
-            descricao:"Tenis de Basqute",
+            descricao:"Tênis de Treino & Academia",
     
-            preco:"1988,00",
+            preco:"R$:1300,00",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -87,11 +87,11 @@ export default function Produtos(){
     
             marca:"Nike",
     
-            descricao:"Tenis de Basqute",
+            descricao:"Tênis de Treino & Academia",
     
-            preco:"1988,00",
+            preco:"R$:800,00",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -105,11 +105,11 @@ export default function Produtos(){
     
             marca:"Nike",
     
-            descricao:"Tenis de Basqute",
+            descricao:"Tênis de Treino & Academia",
     
-            preco:"1988,00",
+            preco:"R$:500,00",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -123,11 +123,11 @@ export default function Produtos(){
     
             marca:"Nike",
     
-            descricao:"Tenis de Basqute",
+            descricao:"Tênis de Treino & Academia",
     
-            preco:"1988,00",
+            preco:"R$:699,99",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -141,11 +141,11 @@ export default function Produtos(){
     
             marca:"Nike",
     
-            descricao:"Tenis de Basqute",
+            descricao:"Tênis de Treino & Academia",
     
-            preco:"1988,00",
+            preco:"R$:598,90",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -159,11 +159,11 @@ export default function Produtos(){
     
             marca:"Nike",
     
-            descricao:"Tenis de Basqute",
+            descricao:"Tênis de Treino & Academia",
     
-            preco:"1988,00",
+            preco:"R$:1900,00",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -177,11 +177,11 @@ export default function Produtos(){
     
             marca:"Nike",
     
-            descricao:"Tenis de Basqute",
+            descricao:"Tênis de Treino & Academia",
     
-            preco:"1988,00",
+            preco:"R$:1000,00",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -195,11 +195,11 @@ export default function Produtos(){
     
             marca:"Nike",
     
-            descricao:"Tenis de Basqute",
+            descricao:"Tênis de Treino & Academia",
     
-            preco:"1988,00",
+            preco:"R$:599,90",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -213,11 +213,11 @@ export default function Produtos(){
     
             marca:"Nike",
     
-            descricao:"Tenis de Basqute",
+            descricao:"Tênis de Treino & Academia",
     
-            preco:"1988,00",
+            preco:"R$:200,00",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -231,11 +231,11 @@ export default function Produtos(){
     
             marca:"Nike",
     
-            descricao:"Tenis de Basqute",
+            descricao:"Tênis de Treino & Academia",
     
-            preco:"1988,00",
+            preco:"R$:250,00",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -249,11 +249,11 @@ export default function Produtos(){
     
             marca:"Nike",
     
-            descricao:"Tenis de Basqute",
+            descricao:"Tênis de Treino & Academia",
     
-            preco:"1988,00",
+            preco:"R$:400,00",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -267,11 +267,11 @@ export default function Produtos(){
     
             marca:"Nike",
     
-            descricao:"Tenis de Basqute",
+            descricao:"Tênis de Treino & Academia",
     
-            preco:"1988,00",
+            preco:"R$:199,90",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
     ]);

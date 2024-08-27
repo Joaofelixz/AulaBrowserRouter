@@ -15,11 +15,11 @@ export default function Ofertas(){
     
             marca:"Nike",
     
-            descricaco:"Tenis de Basqute",
+            descricao:"Tênis de Casual",
     
-            preco:"1988,00",
+            preco:"R$:300,00",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -33,11 +33,11 @@ export default function Ofertas(){
     
             marca:"Nike",
     
-            descricaco:"Tenis de Basqute",
+            descricao:"Tênis de Casual",
     
-            preco:"1988,00",
+            preco:"R$:550,00",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -51,11 +51,11 @@ export default function Ofertas(){
     
             marca:"Nike",
     
-            descricaco:"Tenis de Basqute",
+            descricao:"Tênis de Casual",
     
-            preco:"1988,00",
+            preco:"R$:550,00",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -69,11 +69,11 @@ export default function Ofertas(){
     
             marca:"Nike",
     
-            descricaco:"Tenis de Basqute",
+            descricao:"Tênis de Casual",
     
-            preco:"1988,00",
+            preco:"R$:800,00",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -87,11 +87,11 @@ export default function Ofertas(){
     
             marca:"Nike",
     
-            descricaco:"Tenis de Basqute",
+            descricao:"Tênis de Casual",
     
-            preco:"1988,00",
+            preco:"R$:755,00",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -105,11 +105,11 @@ export default function Ofertas(){
     
             marca:"Nike",
     
-            descricaco:"Tenis de Basqute",
+            descricao:"Tênis de Casual",
     
-            preco:"1988,00",
+            preco:"R$:900,00",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -123,11 +123,11 @@ export default function Ofertas(){
     
             marca:"Nike",
     
-            descricaco:"Tenis de Basqute",
+            descricao:"Tênis de Casual",
     
-            preco:"1988,00",
+            preco:"R$:600,00",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -141,11 +141,11 @@ export default function Ofertas(){
     
             marca:"Nike",
     
-            descricaco:"Tenis de Basqute",
+            descricao:"Tênis de Casual",
     
-            preco:"1988,00",
+            preco:"R$:600,00",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -159,11 +159,11 @@ export default function Ofertas(){
     
             marca:"Nike",
     
-            descricaco:"Tenis de Basqute",
+            descricao:"Tênis de Casual",
     
-            preco:"1988,00",
+            preco:"R$:200,00",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         },
         {
@@ -177,11 +177,11 @@ export default function Ofertas(){
     
             marca:"Nike",
     
-            descricaco:"Tenis de Basqute",
+            descricao:"Tênis de Casual",
     
-            preco:"1988,00",
+            preco:"R$:330,00",
     
-            tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+            tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
     
         }
 ]);

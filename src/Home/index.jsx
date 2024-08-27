@@ -22,11 +22,11 @@ export default function Home(){
 
         marca:"Nike",
 
-        descricao:"Tenis de Basqute",
+        descricao:"Tênis de Basquete",
 
-        preco:"1988,00" ,
+        preco:"R$:1999,90" ,
 
-        tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+        tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
 
     },
     {
@@ -40,11 +40,11 @@ export default function Home(){
 
         marca:"Nike",
 
-        descricao:"Tenis de Basqute",
+        descricao:"Tênis de Basquete",
 
-        preco:"1988,00",
+        preco:"R$:500,00",
 
-        tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+        tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
 
     },
     {
@@ -58,11 +58,11 @@ export default function Home(){
 
         marca:"Nike",
 
-        descricao:"Tenis de Basqute",
+        descricao:"Tênis de Basquete",
 
-        preco:"1988,00",
+        preco:"R$:450,00",
 
-        tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+        tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
 
     },
     {
@@ -76,11 +76,11 @@ export default function Home(){
 
         marca:"Nike",
 
-        descricaco:"Tenis de Basqute",
+        descricao:"Tênis de Basquete",
 
-        preco:"1988,00",
+        preco:"R$:600,00",
 
-        tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+        tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
 
     },
     {
@@ -94,11 +94,11 @@ export default function Home(){
 
         marca:"Nike",
 
-        descricaco:"Tenis de Basqute",
+        descricao:"Tênis de Basquete",
 
-        preco:"1988,00",
+        preco:"R$:250,00",
 
-        tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+        tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
 
     },
     {
@@ -112,11 +112,11 @@ export default function Home(){
 
         marca:"Nike",
 
-        descricaco:"Tenis de Basqute",
+        descricao:"Tênis de Basquete",
 
-        preco:"1988,00",
+        preco:"R$:950,00",
 
-        tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+        tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
 
     },
     {
@@ -130,11 +130,11 @@ export default function Home(){
 
         marca:"Nike",
 
-        descricaco:"Tenis de Basqute",
+        descricao:"Tênis de Basquete",
 
-        preco:"1988,00",
+        preco:"R$:330,00",
 
-        tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+        tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
 
     },
     {
@@ -148,11 +148,11 @@ export default function Home(){
 
         marca:"Nike",
 
-        descricaco:"Tenis de Basqute",
+        descricao:"Tênis de Basquete",
 
-        preco:"1988,00",
+        preco:"R$:400,00",
 
-        tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+        tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
 
     },
     {
@@ -166,11 +166,11 @@ export default function Home(){
 
         marca:"Nike",
 
-        descricaco:"Tenis de Basqute",
+        descricao:"Tênis de Basquete",
 
-        preco:"1988,00",
+        preco:"R$:700,00",
 
-        tamanhos:["38, 39, 40, 41, 42, 43, 44, 45"],
+        tamanhos:["Tamanho:38, 39, 40, 41, 42, 43, 44, 45"],
 
     },
     {
@@ -184,9 +184,9 @@ export default function Home(){
 
         marca:"Nike",
 
-        descricaco:"Tenis de Basqute",
+        descricao:"Tênis de Basquete",
 
-        preco:"1988,00",
+        preco:"R$:1889,90",
 
         tamanhos:["tamanhos:","38, 39, 40, 41, 42, 43, 44, 45"],
 
@@ -205,13 +205,16 @@ export default function Home(){
             >
             
         <div>
-            <img src="https://acdn.mitiendanube.com/stores/003/523/349/themes/recife/slide-1713474674717-7468518669-ad55f3c9a1b5837f87c1d8b1f04b68711713474671.jpg?990651035"/>
+            <img src="https://imgnike-a.akamaihd.net/branding/cdp-nike-app-3/assets/img/p5-desk.jpg"/>
         </div>
         <div>
             <img src="https://imgnike-a.akamaihd.net/branding/home-sbf/touts/Banner-Nike-Pegasus-Plus-22-08-desk.jpg"/>
         </div>
         <div>
-            <img src="https://imgnike-a.akamaihd.net/branding/home-sbf/touts/Banner-Free-Metcon6-15-08-desk.jpg"/>
+            <img src="https://imgnike-a.akamaihd.net/branding/running/nrc-app/assets/img/p7.jpg"/>
+        </div>
+        <div>
+            <img src="https://imgnike-a.akamaihd.net/branding/home-sbf/touts/Banner-Mad-Ambition-12-08-desk.jpg"/>
         </div>
          </Carousel>
          <div>
